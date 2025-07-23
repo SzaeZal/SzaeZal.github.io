@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: darkslategray;
+  color: white;
+}
+.container{
+    max-width: 75%;
+    margin: auto;
+    margin-top: 25px;
+}
+.card{
+    border-radius: 5px;
+    border: white solid 1px;
+    padding: 5px;
+    width: fit-content;
+}
+.card-title{
+    font-size: large;
+    font-weight: bold;
+}
+.btn{
+    border-radius: 5px;
+    border: white solid 1px;
+    padding: 5px;
+}
