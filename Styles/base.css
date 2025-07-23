@@ -23,6 +23,9 @@ body {
 }
 .btn{
     border-radius: 5px;
+    text-decoration: none;
+    color: white;
     border: white solid 1px;
     padding: 5px;
+    margin: 5px;
 }
